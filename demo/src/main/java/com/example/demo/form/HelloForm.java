@@ -1,5 +1,7 @@
 package com.example.demo.form;
 
+import javax.validation.constraints.NotEmpty;
+
 import lombok.Data;
 
 @Data
